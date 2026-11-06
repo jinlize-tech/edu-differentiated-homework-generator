@@ -1,0 +1,24 @@
+{
+  "number": 33,
+  "product_id": "JLZ-EDU-SK-027",
+  "chinese_name": "分层作业生成",
+  "english_name": "Differentiated Homework Generator",
+  "repository_name": "edu-differentiated-homework-generator",
+  "product_type": "Skill",
+  "category": "03 教学教研中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-differentiated-homework-generator-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "知识点、学情层次、题量、题型、难度、答案要求和教材范围",
+  "main_output": "分层作业、题目、答案、解析、分层说明和教师复核清单",
+  "package_entries": [
+    "edu-differentiated-homework-generator/SKILL.md",
+    "edu-differentiated-homework-generator/references/DOMAIN_GUIDE.md",
+    "edu-differentiated-homework-generator/references/EXAMPLES.md",
+    "edu-differentiated-homework-generator/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
