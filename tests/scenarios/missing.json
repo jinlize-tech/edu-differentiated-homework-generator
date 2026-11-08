@@ -1,6 +1,9 @@
 {
+  "scenario_name": "incomplete",
+  "business_context": "用户在分层作业生成任务开始阶段只提供了少量资料。",
   "inputs": {
-    "知识点": "已提供并确认：知识点"
+    "知识点": "标准合成场景｜分层作业生成的知识点：已按合成业务口径准备",
+    "学情层次": "标准合成场景｜30名脱敏学生编号S001-S030（合成名单）"
   },
   "data_status": "confirmed",
   "conflicts": [],
